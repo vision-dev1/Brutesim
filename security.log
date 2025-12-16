@@ -1,0 +1,37 @@
+2025-12-15 11:21:35,783 - WARNING - Failed login attempt (1/3)
+2025-12-15 11:21:36,884 - WARNING - Failed login attempt (2/3)
+2025-12-15 11:21:37,985 - WARNING - Failed login attempt (3/3)
+2025-12-15 11:21:37,985 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 11:21:37,985 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:07:10,187 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:07:11,293 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:07:12,394 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:07:12,394 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:07:12,394 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:07:43,495 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:07:44,596 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:07:45,697 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:07:45,698 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:07:45,698 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:08:16,799 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:08:17,900 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:08:19,001 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:08:19,001 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:08:19,001 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:08:50,102 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:08:51,202 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:08:52,303 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:08:52,303 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:08:52,303 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:09:23,404 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:09:24,505 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:09:25,605 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:09:25,606 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:09:25,606 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:09:56,707 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:09:57,807 - WARNING - Failed login attempt (2/3)
+2025-12-15 14:09:58,908 - WARNING - Failed login attempt (3/3)
+2025-12-15 14:09:58,909 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:09:58,909 - CRITICAL - Account locked for 30 seconds due to repeated failed attempts
+2025-12-15 14:10:30,009 - WARNING - Failed login attempt (1/3)
+2025-12-15 14:10:31,110 - INFO - Successful login
