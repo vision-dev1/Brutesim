@@ -2,10 +2,6 @@
 
 An educational tool demonstrating how brute force attacks work and how to defend against them in a controlled environment.
 
-**Author:** Vision KC  
-**GitHub:** [vision-dev1](https://github.com/vision-dev1)  
-**Portfolio:** [visionkc.com.np](https://visionkc.com.np)
-
 ---
 
 ## 📋 Table of Contents
