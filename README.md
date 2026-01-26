@@ -25,8 +25,6 @@ This project simulates a brute force attack on a dummy login system to demonstra
 
 The simulator uses a wordlist-based approach to guess passwords and shows how security measures can protect against such attacks.
 
-**Made By Vision** | **github.com/vision-dev1**
-
 ---
 
 ## ⚔️ How Brute Force Attacks Work
