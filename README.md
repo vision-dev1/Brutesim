@@ -190,4 +190,5 @@ See [LICENSE](LICENSE) file for details.
 ---
 
 **Designed by Vision**  
-**Made By Vision** | **github.com/vision-dev1**
+[Github](https://github.com/vision-dev1)
+[Portfolio](https://visionkc.com.np)
